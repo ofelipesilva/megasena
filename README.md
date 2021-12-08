@@ -22,7 +22,7 @@ The chosen api was the Loterias CAIXA API, that can be found on GitHub [here](ht
 
 The base URL to work with this api to see the latest result is as follows:
 
-> https://loteriascaixa-api.herokuapp.com/api/\<lottery>/latest
+> https://loteriascaixa-api.herokuapp.com/api/\<lottery\>/latest
 
 Just substitute ___lottery___ by the name of the lottery you want to see the latest result. Some options are __mega-sena__, __lotofacil__ and so on.
 
