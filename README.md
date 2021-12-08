@@ -6,7 +6,7 @@ The objective of this application is to check for the last result from the Mega-
 
 ## First Look
 
-<img src="\app-look.png" alt="The look of the application" style="zoom:80%;" />
+<img src="/app-look.png" alt="The look of the application" style="zoom:80%;" />
 
 The interface of the application is written in Portuguese, from Brazil.
 
